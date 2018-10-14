@@ -1,4 +1,5 @@
-"""Ö´ĞĞËùÓĞÓÃÀıÈë¿ÚÎÄ¼ş"""
+"""æ‰§è¡Œæ‰€æœ‰ç”¨ä¾‹å…¥å£æ–‡ä»¶"""
+#coding:utf-8
 import unittest
 
 from config import config as cf
